@@ -1,5 +1,5 @@
 # Shopify
-A Django based online shopping website prototype where users once registered can add and delete products from their cart with various parameters to filter from.
+A Django based e-commerce website prototype where users once registered can add and delete products from their cart with various parameters to filter from.
 
 # Working:
 1. Go to */shop/login/* to login.
